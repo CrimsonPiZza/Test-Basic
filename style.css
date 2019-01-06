@@ -35,7 +35,7 @@ div
 	position: absolute;
 	top: 40%;
 	width: 12%;
-	height: 60em;
+	height: 94%;
 	background-color: #ABB7B7;
 	border: 0px solid #ABB7B7;
 	border-top-left-radius: 10px;
@@ -73,7 +73,7 @@ section
 {
 	position: absolute;
 	display: block;
-	bottom: 70%;
+	top : 5%;
 	left: 35%;
 	right: 35%;;
 }
@@ -109,11 +109,13 @@ figcaption
 
 .content
 {
+	min-width: 30%;
 	padding: 20px;
+	max-height: 50%;
 	text-align: center;
 	font-family: Segoe UI;
-	line-height: 1.8vw;
+	line-height: 150%;
 	color: #636e72;
 	font-size: 1vw;
-	object-fit: contain;
+	object-fit: fill;
 }
