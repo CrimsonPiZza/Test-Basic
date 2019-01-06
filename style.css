@@ -1,6 +1,116 @@
-p{
-	color: red;
+*
+{
+	font-family: Segoe UI;
 }
-body{
-	background-color: black;
+
+body
+{
+	background-color: #eeeeee;
+}
+
+p 
+{
+	text-align: center;
+}
+
+.lighttext
+{
+	color: #ABB7B7;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 40px;
+}
+
+.smallline
+{
+ color: #3498db;
+ font-size: 30px;
+}
+
+div
+{
+	position: absolute;
+	top: 40%;
+	width: 12%;
+	height: 82%;
+	background-color: #ABB7B7;
+	border: 0px solid #ABB7B7;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.div1
+{
+	left: 10%;
+	
+}
+
+.div2
+{
+	left: 27%;
+
+}
+
+.div3
+{
+	left: 44%;
+}
+
+.div4
+{
+	left: 61%;
+}
+
+.div5
+{
+	left: 78%;
+}
+
+section
+{
+	position: absolute;
+	display: block;
+	bottom: 70%;
+	left: 35%;
+	right: 35%;;
+}
+
+figure
+{
+ text-align: center;
+ padding: 0px;
+ margin: 0px;
+}
+
+img
+{
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+ width: 100%;
+}
+
+figcaption
+{
+	color: #6C7A89;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.rule
+{
+	font-weight: lighter;
+	color: black;
+	opacity: 0.3;
+}
+
+.content
+{
+	padding: 20px;
+	text-align: center;
+	font-family: Segoe UI;
+	line-height: 30px;
+	color: #636e72;
 }
