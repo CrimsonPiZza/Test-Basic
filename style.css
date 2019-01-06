@@ -76,6 +76,7 @@ section
 	bottom: 70%;
 	left: 35%;
 	right: 35%;;
+	top: 5%;
 }
 
 figure
@@ -113,4 +114,8 @@ figcaption
 	font-family: Segoe UI;
 	line-height: 30px;
 	color: #636e72;
+}
+.p1
+{
+	color: #b2bec3;
 }
