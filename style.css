@@ -27,7 +27,7 @@ h1
 .smallline
 {
  color: #3498db;
- font-size: 30px;
+ font-size: 2vw;
 }
 
 div
@@ -35,7 +35,7 @@ div
 	position: absolute;
 	top: 40%;
 	width: 12%;
-	height: 82%;
+	height: 60em;
 	background-color: #ABB7B7;
 	border: 0px solid #ABB7B7;
 	border-top-left-radius: 10px;
@@ -76,7 +76,6 @@ section
 	bottom: 70%;
 	left: 35%;
 	right: 35%;;
-	top: 5%;
 }
 
 figure
@@ -97,11 +96,12 @@ figcaption
 {
 	color: #6C7A89;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 1vw;
 }
 
 .rule
 {
+	font-size: 1vw;
 	font-weight: lighter;
 	color: black;
 	opacity: 0.3;
@@ -112,10 +112,8 @@ figcaption
 	padding: 20px;
 	text-align: center;
 	font-family: Segoe UI;
-	line-height: 30px;
+	line-height: 1.8vw;
 	color: #636e72;
-}
-.p1
-{
-	color: #b2bec3;
+	font-size: 1vw;
+	object-fit: contain;
 }
