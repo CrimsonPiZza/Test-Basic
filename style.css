@@ -35,7 +35,7 @@ div
 	position: absolute;
 	top: 40%;
 	width: 12%;
-	height: 94%;
+	height: 97%;
 	background-color: #ABB7B7;
 	border: 0px solid #ABB7B7;
 	border-top-left-radius: 10px;
@@ -73,7 +73,7 @@ section
 {
 	position: absolute;
 	display: block;
-	top : 5%;
+	top : 2%;
 	left: 35%;
 	right: 35%;;
 }
